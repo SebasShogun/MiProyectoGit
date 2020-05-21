@@ -10,7 +10,7 @@ header{
 }
 
 div {
-    width: 8000px;
+    width: 800px;
     margin: 0 auto;
     padding: 50px;
     text-align: center;
@@ -21,7 +21,7 @@ button {
     font-weight: bold;
 }
 
-button:hover{
+button:hover {
     background-color: black;
     color: white;
 }
